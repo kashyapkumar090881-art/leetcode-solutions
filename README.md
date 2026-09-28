@@ -1,7 +1,7 @@
 # LeetCode Solutions
-**Name:** [YOUR NAME]
+**Name:** KASHYAP KUMAR M GHATKE
 
-**Roll Number:** [YOUR ROLL NUMBER]
+**Roll Number:** DCET2600465
 
 Personal LeetCode practice log — part of B25GE0101 portfolio
 
