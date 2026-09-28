@@ -1,0 +1,22 @@
+# Compiled C files
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.so
+*.dll
+
+# Temporary build and editor files
+*.tmp
+*.temp
+*.log
+*.swp
+*.swo
+*~
+
+# VS Code workspace state
+.vscode/*
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/tasks.json
